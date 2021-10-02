@@ -5,25 +5,6 @@
 
 #
 
-### Requirements
-
-```console
-tkinter
-win32api
-win32con
-pywintypes
-pystray
-CV2
-time
-queue
-numpy
-cuesdk
-threading
-datetime
-PIL
-pytesseract
-```
-
 ### Installation
 
 ```console
@@ -43,6 +24,25 @@ $ python3 -m pip install -r requirements.txt
 # start the program
 $ python3 corzone.py
 [+] Program is start
+```
+
+### Requirements
+
+```console
+tkinter
+win32api
+win32con
+pywintypes
+pystray
+CV2
+time
+queue
+numpy
+cuesdk
+threading
+datetime
+PIL
+pytesseract
 ```
 
 ### Supported OS
