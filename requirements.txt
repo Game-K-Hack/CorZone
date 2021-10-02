@@ -1,0 +1,14 @@
+tkinter
+win32api
+win32con
+pywintypes
+pystray
+CV2
+time
+queue
+numpy
+cuesdk
+threading
+datetime
+PIL
+pytesseract
