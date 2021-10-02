@@ -42,6 +42,7 @@ $ python3 -m pip install -r requirements.txt
 ```console
 # start the program
 $ python3 corzone.py
+[+] Program is start
 ```
 
 ### Supported OS
