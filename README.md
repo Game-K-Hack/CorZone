@@ -23,6 +23,27 @@ datetime
 PIL
 pytesseract
 ```
+
+### Installation
+
+```console
+# clone the repo
+$ git clone https://github.com/Game-K-Hack/CorZone.git
+
+# change the working directory to sherlock
+$ cd CorZone
+
+# install the requirements
+$ python3 -m pip install -r requirements.txt
+```
+
+### Usage
+
+```console
+# start the program
+$ python3 corzone.py
+```
+
 ### Supported OS
 + Windows 7 (32-bit and 64-bit)
 + Windows 8, 8.1 (32-bit and 64-bit)
