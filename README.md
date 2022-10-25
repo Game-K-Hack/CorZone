@@ -1,11 +1,33 @@
-# CORZONE
-![](https://cdn.discordapp.com/attachments/837345074877562892/893799068034285588/CorZone.png)
-![release - v1.2](https://img.shields.io/static/v1?label=release&message=v1.2&color=blue) ![version - unstable](https://img.shields.io/static/v1?label=version&message=unstable&color=red) ![License](https://img.shields.io/badge/License-GNU-yellow)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/gamekdonate)
+<p align="center" >
+    <img src="https://cdn.discordapp.com/attachments/837345074877562892/893799068034285588/CorZone.png" width=200 />
+</p>
 
-#
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label=release&message=v1.2&color=blue" alt="release - v1.2" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label=version&message=unstable&color=red" alt="version - unstable" />
+  </a>
+  <a href="https://choosealicense.com/licenses/mit">
+    <img src="https://img.shields.io/badge/License-GNU-yellow" alt="License" />
+  </a>
+  <a href="https://www.paypal.com/paypalme/gamekdonate">
+    <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate" />
+  </a>
+</div>
 
-### Installation
+<h4 align="center">Synchronization program between Corsair LEDs and Warzone cutscenes</h4>
+
+<p align="center">
+  <a href="#Installation">Installation</a> •
+  <a href="#Usage">Usage</a> •
+  <a href="#Supported OS">Supported OS</a> •
+  <a href="#Supported devices">Supported devices</a> •
+  <a href="#Operating diagram ">Operating diagram </a>
+</p>
+
+## Installation
 
 ```console
 # clone the repo
@@ -18,7 +40,7 @@ $ cd CorZone
 $ python3 -m pip install -r requirements.txt
 ```
 
-### Usage
+## Usage
 
 ```console
 # start the program
@@ -26,7 +48,7 @@ $ python3 corzone.py
 [+] Program is start
 ```
 
-### Requirements
+## Requirements
 
 ```console
 tkinter
@@ -121,6 +143,6 @@ pytesseract
   + H150i PRO
 
                 
-### Operating diagram 
+## Operating diagram 
 
 ![](https://cdn.discordapp.com/attachments/879074487071539280/893814554994294784/unknown.png)
