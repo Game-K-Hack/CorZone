@@ -4,12 +4,12 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/static/v1?label=release&message=v1.2&color=blue" alt="release - v1.2" />
+    <img src="https://img.shields.io/static/v1?label=release&message=v1.2&color=blue" alt="Release - v1.2" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/static/v1?label=version&message=unstable&color=red" alt="version - unstable" />
+    <img src="https://img.shields.io/static/v1?label=version&message=unstable&color=red" alt="Version - Unstable" />
   </a>
-  <a href="https://choosealicense.com/licenses/mit">
+  <a href="https://choosealicense.com/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GNU-yellow" alt="License" />
   </a>
   <a href="https://www.paypal.com/paypalme/gamekdonate">
@@ -32,7 +32,7 @@
 
 ## Installation
 
-```console
+```
 # clone the repo
 $ git clone https://github.com/Game-K-Hack/CorZone.git
 
@@ -45,7 +45,7 @@ $ python3 -m pip install -r requirements.txt
 
 ## Usage
 
-```console
+```
 # start the program
 $ python3 corzone.py
 [+] Program is start
@@ -53,7 +53,9 @@ $ python3 corzone.py
 
 ## Requirements
 
-```console
+For this script to work, you must have Python in version 3.9 (or a higher version) and have installed the following libraries:
+
+```
 tkinter
 win32api
 win32con
