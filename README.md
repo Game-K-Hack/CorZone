@@ -2,6 +2,8 @@
     <img src="https://cdn.discordapp.com/attachments/837345074877562892/893799068034285588/CorZone.png" width=200 />
 </p>
 
+<br>
+
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/static/v1?label=release&message=v1.2&color=blue" alt="Release - v1.2" />
