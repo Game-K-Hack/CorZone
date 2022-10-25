@@ -1,5 +1,5 @@
 <p align="center" >
-    <img src="https://cdn.discordapp.com/attachments/837345074877562892/893799068034285588/CorZone.png" width=200 />
+    <img src="https://cdn.discordapp.com/attachments/837345074877562892/893799068034285588/CorZone.png" width=150 />
 </p>
 
 <br>
