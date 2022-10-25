@@ -24,7 +24,7 @@
   <a href="#usage">Usage</a> •
   <a href="#supported-os">Supported OS</a> •
   <a href="#supported-devices">Supported devices</a> •
-  <a href="#operating-diagram ">Operating diagram </a>
+  <a href="#operating-diagram">Operating diagram </a>
 </p>
 
 <br>
