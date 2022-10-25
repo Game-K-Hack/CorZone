@@ -20,11 +20,11 @@
 <h4 align="center">Synchronization program between Corsair LEDs and Warzone cutscenes</h4>
 
 <p align="center">
-  <a href="#Installation">Installation</a> •
-  <a href="#Usage">Usage</a> •
-  <a href="#Supported OS">Supported OS</a> •
-  <a href="#Supported devices">Supported devices</a> •
-  <a href="#Operating diagram ">Operating diagram </a>
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#supported-os">Supported OS</a> •
+  <a href="#supported-devices">Supported devices</a> •
+  <a href="#operating-diagram ">Operating diagram </a>
 </p>
 
 <br>
